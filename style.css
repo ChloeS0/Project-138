@@ -1,0 +1,24 @@
+body{
+    background-size: cover;
+}
+
+.div
+{
+    width:100%;
+    text-align:left;
+}
+
+
+
+.div h3{
+
+    display: inline;
+}
+
+#button
+{
+    float: right;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+}
